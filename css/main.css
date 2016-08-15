@@ -43,3 +43,7 @@ div {
 p {
     background-color: lightyellow;
 }
+
+body {
+    background-image: url("/home/adarsh/Desktop/MYPIC.jpg");
+}
