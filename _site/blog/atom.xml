@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>adarsh dessai Blog</title>
+ <link href="http://adarshdessai.github.io/blog/atom.xml" rel="self"/>
+ <link href="http://adarshdessai.github.io/blog"/>
+ <updated>2016-08-15T21:42:01+05:30</updated>
+ <id>http://adarshdessai.github.io/blog</id>
+ <author>
+   <name>adarsh dessai</name>
+   <email>adarshdessai@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>adarsh dessai, rythm of life, coming soon, stay tuned</title>
+   <link href="http://adarshdessai.github.io/blog/2016/08/15/hank-quinlan-site-launched"/>
+   <updated>2016-08-15T00:00:00+05:30</updated>
+   <id>http://adarshdessai.github.io//blog/2016/08/15/hank-quinlan-site-launched</id>
+   <content type="html">&lt;p&gt;Well. Finally got around to putting this old website together. Neat thing about it - powered by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
