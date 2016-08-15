@@ -33,7 +33,7 @@ body {
 }
 
 h1 {
-    background-color: green;
+    background-color: lightorange;
 }
 
 div {
@@ -41,5 +41,5 @@ div {
 }
 
 p {
-    background-color: yellow;
+    background-color: lightyellow;
 }
