@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: PRINCE INTERNATIONAL
+title: Artists Theme
 description: Thinker // Designer // YouTuber
 email: devtipsfordesigners@gmail.com
 
@@ -39,11 +39,10 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  ** PRINCE INTERNATIONAL ** ONE OF THE TOP COMPANY IN GUITAR MANUFACTURINGS **DESIGNING AND DEVELOPING**.
-   (https://www.adarshdessai.online.com),
- Prince international has provided best service in designing best guitars in world.
- in guitar industries all over.We have branches in each countries. stay tuned for updates (https://www.adarshdessai.com), see us on you tube
-  and [YouTube videos](https://youtube.com/user/adarshdessaionline), we believe about making and doing things happen.
+  **Travis specializes in making things** for human people.
+  Most of the things he makes are [digital interfaces](http://travisneilson.com){:target="_blank"},
+  but he also puts effort into crafting [next-level beats](http://soundcloud.com/travis-neilson){:target="_blank"}
+  and [YouTube videos](http://youtube.com/user/devtipsfordesigners){:target="_blank"} about making codes happen.
 
 
 skills:
