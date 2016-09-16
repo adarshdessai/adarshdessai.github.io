@@ -1,12 +1,9 @@
 ---
-title: Typo International Design Talks Stuff
+title: Laser musical instruments
 ---
 
 ![Typo International](assets/img/work/proj-1/img1.jpg)
 
-TYPO: International Design Talks is an annual event held in Berlin, London, and San Francisco. This promotional project is developed to market the event for the designindustry. The use of patterns, sophisticated color scheme and typography are applied for the print and mobile application.
+LASER MUSICAL INSTRUMENT: (LMT) is an electronic device specially design to play musical stringless harp effectively and make it more entertaining.
 
 ![Typo International](assets/img/work/proj-1/img2.jpg)
-![Typo International](assets/img/work/proj-1/img3.jpg)
-![Typo International](assets/img/work/proj-1/img4.jpg)
-![Typo International](assets/img/work/proj-1/img5.jpg)
