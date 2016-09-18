@@ -1,5 +1,5 @@
 ---
-title: Laser musical instruments
+title: Laser Musical Instruments
 ---
 
 ![Typo International](assets/img/work/proj-1/img1.jpg)
